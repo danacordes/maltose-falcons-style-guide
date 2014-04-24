@@ -3,12 +3,11 @@ $(document).bind("mobileinit", function(){
     defaultPageTransition : 'slide'
   });
 });
-
 /*
 $(document).ready(function () {
 	setupClasses();
-	setupStyles();
-	showClasses();
+//	setupStyles();
+//	showClasses();
 });
 
 function setupClasses(){
@@ -43,6 +42,8 @@ function setupClasses(){
 
 	});
 }
+*/
+/*
 
 function setupStyles(){
 }
